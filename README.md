@@ -1,3 +1,2 @@
 ### Hi there 👋
-- 🔭 I’m currently working on the reboot Digital Coding course with Leeds Trinity University
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning web development after an introductory course at LTU
